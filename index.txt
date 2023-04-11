@@ -1,0 +1,19 @@
+                 DAY 2 TASK
+
+DIFFERENCE BETWEEN DOCUMENT AND WINDOW OBJECTS.
+
+
+
+
+              WINDOWS OBJECT ;
+     
+      The windows object is global .
+      The global object of the javascript in the web browser is the window object
+      It means all the variables and functions are declared globally with the var keyword.you can use let keyword to declare variables and functions.
+       The window objects expose the functionality of the web browser.
+
+            DOCUMENT OBJECT ;
+
+    Document object represents the HTML documents in the window.
+    It represents your web page.
+  If you want to access any element in HTML page , you always start with accessing the document object
